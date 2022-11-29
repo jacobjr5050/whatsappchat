@@ -1,0 +1,7 @@
+<script async src='https://www.digitalmalayali.in/wp-content/uploads/2022/10/whatsappchat.min_.js'></script>
+<script>
+          var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"Join WhatsApp Group ","cornerRadius":40,"marginBottom":"50","marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"917012323749","welcomeMessage":"I Want to Join Digital Malayali Club","zIndex":999999,"btnColorScheme":"light"};
+          window.onload = () => {
+            _waEmbed(wa_btnSetting);
+          };
+</script>
